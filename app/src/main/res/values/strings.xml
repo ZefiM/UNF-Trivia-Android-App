@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">UNF Trivia</string>
+    <string name="true_button">True</string>
+    <string name="false_button">False</string>
+    <string name="next_button">Next</string>
+    <string name="answer_text">Correct/Incorrect</string>
+    <string name="correct_text">Correct</string>
+    <string name="incorrect_text">Incorrect</string>
+    <string name="question_text1">Full-stage opera productions are offered by student performers at UNF.</string>
+    <string name="question_text2">The armadillo was never considered for mascot adoption at UNF.</string>
+    <string name="question_text3">UNF offers Open Zip [Line] Nights for students.</string>
+    <string name="hint_button">Give me a hint!</string>
+    <string name="hint_text">Are you sure you want to do this?</string>
+    <string name="showAnswer_button">Show Answer</string>
+    <string name="KnownAnswer">You Already Know the Answer to This!</string>
+
+
+
+</resources>
